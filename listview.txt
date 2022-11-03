@@ -1,0 +1,7 @@
+Creating a ListView 
+
+1. Create ListView in Main Layout (xml)
+2. Cerate new xml file which will carry the contents inside the listview 
+3. Insert values into the strings.xml file, we will use string arrays name to connect to activity
+4. Connect views and components in MainActivity 
+5. Use adapter 
